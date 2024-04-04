@@ -1,7 +1,7 @@
 # Problem List:
 <div style="background-color:black; color:white;">
 
-## <span style="color:white;">Week-1:</span>
+## <span style="color:white;">Week-1✅:</span>
 - Two Sum | <font color="green">Easy</font> ✅
 - Contains Duplicate | <font color="green">Easy</font> ✅
 - Best Time to Buy and Sell Stock | <font color="green">Easy</font> ✅
