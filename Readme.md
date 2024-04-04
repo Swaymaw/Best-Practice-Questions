@@ -10,8 +10,8 @@
 - Maximum Subarray | <font color="green">Easy</font> ✅
 - Product of Array Except Self | <font color="yellow">Medium</font> ✅
 - 3Sum | <font color="yellow">Medium</font> ✅ <font color="gray">(After Using LeetCode Solutions Reference)</font>
-- Merge Intervals | <font color="yellow">Medium</font>
-- Group Anagrams | <font color="yellow">Medium</font>
+- Merge Intervals | <font color="yellow">Medium</font> ✅
+- Group Anagrams | <font color="yellow">Medium</font> ✅
 
 </div>
 
