@@ -20,8 +20,8 @@
 ## <span style="color:white;">Week-2:</span>
 - Reverse a Linked List | <font color="green">Easy</font> ✅
 - Detect Cycle in a Linked List | <font color="green">Easy</font> ✅
-- Container With Most Water |	<font color="yellow">Medium</font>
-- Find Minimum in Rotated Sorted Array | <font color="yellow">Medium</font>
+- Container With Most Water |	<font color="yellow">Medium</font> ✅
+- Find Minimum in Rotated Sorted Array | <font color="yellow">Medium</font> ✅
 - Longest Repeating Character Replacement | <font color="yellow">Medium</font>
 - Longest Substring Without Repeating Characters | <font color="yellow">Medium</font> 
 - Number of Islands |	<font color="yellow">Medium</font>
